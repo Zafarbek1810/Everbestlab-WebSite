@@ -1,0 +1,356 @@
+{
+  "button": {
+    "btn": "Learn More",
+    "btn2": "Get in Touch",
+    "btn3": "Read More"
+  },
+  "header": {
+    "home": "COMPANY",
+    "service": "SERVICES",
+    "success": "SUCCESS",
+    "approach": "APPROACH",
+    "testimonials": "TESTIMONIALS",
+    "insights": "INSIGHTS",
+    "contact": "CONTACT",
+    "dropmenu1": "Custom Software",
+    "dropmenu2": "Mobile Application Development",
+    "dropmenu3": "Web Development",
+    "dropmenu4": "IT Consulting",
+    "dropmenu5": "UX/UI"
+  },
+  "hero": {
+    "title": "Software Company",
+    "paragr": "Where Innovation Meets Excellence",
+
+    "title2": "Global Ambition",
+    "paragr2": "to Digitally Transform Businesses",
+
+    "title3": "Brilliant Team",
+    "paragr3": "Working to Make a Big Difference"
+  },
+  "about": {
+    "title": "Product Engineering",
+    "info": "We take care of the entire product life cycle from the innovation phase to deployment and user acceptance testing phase.",
+
+    "title2": "Digital Services",
+    "info2": "We have the expertise in digital transformation for the benefit of organizations as well as end users.",
+
+    "title3": "IT Consultancy",
+    "info3": "We aim to optimize organization's IT infrastructure and reach their goals and business objectives."
+  },
+
+  "thirdSection": {
+    "title-top": "Why Choose Us",
+    "title": "Our Philosophy",
+    "title-p": "In transforming future-thinking businesses and working with talented entrepreneurs, we stick to the following core principles:",
+    "ul1": "Customer Satisfaction:",
+    "p1": "A satisfied customer is the best business strategy of all. We strive to go beyond the expectations and make sure our clients are enthusiastic about our services.",
+    "ul2": "Mutual Trust:",
+    "p2": "Trust is built by demonstrating respect, illustrating to people that we value them with our commitment. A dedicated team for each project will ensure its success with strong focus, relevant expertise and dedication."
+  },
+
+  "service": {
+    "title-top": "Clients",
+    "title": "What We Offer",
+    "text-top": "Top enterprises rely on Everbestlab's deep expertise for their Innovative Project Outsourcing.",
+    "info-title1": "Custom Software Development",
+    "info-text1": "With customized software, your company can operate at its best, and generate more revenue while reducing unnecessary expenses.",
+    "info-title2": "Mobile Application Development",
+    "info-text2": "With mobile, you interact with your audience better and uncover new revenue streams.",
+    "info-title3": "Web Development",
+    "info-text3": "A well-structured and readily accessible web portal is imperative for any company. We make sure your clients find all about your business and take actions at ease.",
+    "info-title4": "IT Consultancy",
+    "info-text4": "You can get outsourced IT support services, covering only the areas you need and fitting into your existing process.",
+    "info-title5": "UX / UI",
+    "info-text5": "The look and feel of a mobile application or website is almost as important as its functions and content. User task flows and clear layout defines how users interact with your product."
+  },
+
+  "counter": {
+    "title1": "Happy Clients",
+    "title2": "Projects Completed",
+    "title3": "Business Partners",
+    "title4": "Cups Of Coffee",
+    "title5": "Years Experience"
+
+  },
+
+  "recentProjects": {
+    "title-top": "Recent projects",
+    "title": "Our Latest Case Studies",
+    "category1": "mobile",
+    "category2": "web / design",
+    "category3": "web",
+    "category4": "web",
+    "category5": "web",
+    "category6": "design / mobile",
+    "category7": "Enterprise Software",
+    "optionText1": "All",
+    "optionText2": "Web",
+    "optionText3": "Mobile",
+    "optionText4": "Design",
+    "optionText5": "Enterprise Software"
+  },
+
+  "approach": {
+    "title-top": "OUR APPROACH",
+    "title": "How We Work",
+    "btn": "See Our Approach",
+    "approach1": "Initiation",
+    "approach2": "Proposal",
+    "approach3": "Teambuilding",
+    "approach4": "Development",
+    "approach5": "Delivery"
+  },
+  "testimonials": {
+    "title-top": "TESTIMONIALS",
+    "title": "What People Say About Everbestlab",
+    "subtitle": "We always connected dots across ecosystems",
+    "marufSay": "“The work of Everbestlab team is professional indeed - they took the time to figure out our needs and made all necessary efforts for our company's digital presence. Highly recommend them!”",
+    "jasurSay": "“I'm glad to partner with Everbestlab team. They are doing amazing job, especially in following up requests and constant tech support.”"
+  },
+  "insights": {
+    "top-title": "RECENT NEWS",
+    "title": "Our Latest Insights",
+    "ins-title1": "Top Machine Learning Platforms 2022",
+    "ins-descr1": "Machine learning is a term referring to a computational system with the capability to ingest data, analyze it and spot trends and patterns. As a subdivision of AI, machine learning (ML) systems build algorithms based on sets of sample data and deliver forecast, without being exclusively programmed to do so. What's more, these algorithms change and adapt in response to emergance of new data or alteration of conditions",
+    "before1": "MACHINE LEARNING",
+
+    "ins-title2": "The 5 Key Benefits to Using Agile",
+    "ins-descr2": "In today's world of project management, Agile stands as one of the most popular approaches due to its flexibility and evolutionary nature. It started back in 2001 with the Agile manifesto and was originally made for software development. Over time, agile project management evolved and became a common choice for many project managers, regardless of the industry.",
+    "before2": "SOFTWARE DEVELOPMENT",
+
+    "ins-title3": "Why is electronic document management important",
+    "ins-descr3": "In contemporary era, nobody likes dealing with paperwork. That’s especially the case when you have just set up a business and there are a hundred and one things to do.",
+    "before3": "PROJECT MANAGEMENT"
+  },
+  "capcha": {
+    "title": "Get a Free Consultancy",
+    "btn": "Free Consultancy",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Message"
+  },
+  "aboutPage": {
+    "title": "Transforming your vision into reality",
+    "title-span": "with our expertise.",
+    "paragr": " We are a trusted software outsourcing partner with customer satisfaction in mind. You can rest assured we provide quality software solutions that enable you to build fruitful and long-lasting relationships with your clients.",
+    "story": "Our Story",
+    "storyP1": "Everbestlab was founded in 2020 by accomplished and passionate professionals with strong expertise in IT and Leadership.",
+    "storyP2": "The company is considered as one of fastest growing software outsourcing agencies in the gographical region, with only a few employees at its establishment to 30+ members in less than two years. This expansion is due to the commitment to excellence, creativity, and customer satisfaction provided to global and local clients.",
+    "mission": "Our Mission",
+    "missionP1": "Our crew is growing bigger, but we all work towards one mission: To empower our clients by providing innovative, reliable, and scalable software solutions that propell their business.",
+    "missionP2": "We strive to understand their unique needs and challenges, and work collaboratively to deliver personalized, cutting-edge technology that exceeds their expectations.",
+    "vision": "Our Vision",
+    "visionP1": "To become a Globally Recognized Outsourcing&Outstaffing Company by 2025.",
+
+    "values": "Our Values",
+    "descr": "We believe that our values are critical in guiding our vision and daily interactions internally and with the cleints and partners. Our culture is seeded in the core vertue of respecting people around:",
+    "valueTitle1": "Customer Satisfaction",
+    "valueinfo1": "A satisfied customer is the best business strategy of all. We strive to go beyond the expectations and make sure our clients are enthusiastic about our services.",
+    "valueTitle2": "Mutual Trust",
+    "valueinfo2": "We demonstrate respect to our clients, partners and colleagues. We act in good faith and fulfill our obligations.",
+    "valueTitle3": "Constant Improvement",
+    "valueinfo3": "Our team are always string to make things better by embracing a growth mindset. We see challenges as opportunities to learn and grow rather than obstacles to be avoided.",
+    "valueTitle4": "Transparency",
+    "valueinfo4": "We are transparent in our business practices, and will be forcoming as well as honest. We say what we mean and we do what we say."
+  },
+
+  "team": {
+    "title": "Meet our",
+    "title2": "amazing team"
+  },
+
+  "approachPage": {
+    "subtitle": "Our Proven Approach",
+    "title": "Why choose",
+    "title-span": "Everbestlab",
+    "cardP1": "Providing business with reliable, worthwile digital products",
+    "cardP2": "Using your existing analytics stack ",
+    "cardP3": "Across all your web and mobile apps",
+    "how-work": "How it works",
+    "hw-title": "High Level Quality in Every Stage, Together.",
+    "hw-p": "Our passion is in understanding how your organization can leverage technology and data to drive your business.",
+
+    "phase1title": "Initiation phase",
+    "phase1p1": "You reach out to Everbestlab.",
+    "phase1p2": "We talk about your business & services.",
+    "phase1p3": "We learn about requirements and expectations.",
+
+    "phase2title": "Proposal phase",
+    "phase2p1": "We evaluate the business and tech scope.",
+    "phase2p2": "We provide commercially valuable offer.",
+    "phase2p3": "We make decision to sign business contracts together.",
+
+    "phase3title": "Team Building phase",
+    "phase3p1": "We determine the necessary skill set.",
+    "phase3p2": "We identify the team members who match the skills.",
+    "phase3p3": "We asseble the team dedicated for the project.",
+
+    "phase4title": "Development phase using Agile",
+    "phase4p1": "We create road map and sprint table.",
+    "phase4p2": "We prioritize tasks to minimize risks.",
+    "phase4p3": "We build the software with agreed tech stack.",
+    "phase4p4": "We set weekly stand-ups and deliver shippable software.",
+    "phase4p5": " We collect feedback, resolve issues and fix bugs.",
+    "phase4p6": "We give the final product demo.",
+
+    "phase5title": "Delivery and maintenance phase",
+    "phase5p1": "The Project goes live.",
+    "phase5p2": "We conduct post-implementation audit.",
+    "phase5p3": "We complete the project and further help with tech support."
+  },
+  "article1": {
+    "title": "Top machine Learning Platforms 2022",
+    "subtitle": "CEO at Everbestlab LLC",
+    "text1": "Machine learning is a term referring to a computational system with the capability to ingest data, analyze it and spot trends and patterns. As a subdivision of AI, machine learning (ML) systems build algorithms based on sets of sample data and deliver forecast, without being exclusively programmed to do so. What's more, these algorithms change and adapt in response to emergance of new data or alteration of conditions. \n\n This autonomous learning ability is at the core of today’s enterprise. It’s increasingly used to take major decisions and drive automation. Even though ML is closely associated with statistical analysis and data mining—and there are often overlaps across these disciplines—what sets ML apart is the capabilitly to detect patterns, trends and properties that would otherwise go unnoticed or remain unreachable. Essetially, ML focuses on known knowledge and ways to put it to use more effectively.",
+    "text2": "How to Choose the Best Machine Learning Software",
+    "text3": "While it’s feasable to create a customized ML system, many organizations rely on a dedicated machine learning platform from a data science or data analytics vendor. It’s best to assess your organization’s needs, including the type of ML you require. This includes whether your company can benefit from a conventional method or deep learning, what programming languages are needed, and which hardware, software and cloud services are necessary to deploy and scale a model properly. \n\n While it’s feasable to create a customized ML system, many organizations rely on a dedicated machine learning platform from a data science or data analytics vendor. It’s best to assess your organization’s needs, including the type of ML you require. This includes whether your company can benefit from a conventional method or deep learning, what programming languages are needed, and which hardware, software and cloud services are necessary to deploy and scale a model properly. \n\n One of the key decisions comes from the underlying machine learning framework, which typically includes one of four approaches: \n\n Sci-Kit Learn:  A user-friendly and highly flexible open-source framework that nevertheless delivers sophisticated functionality. \n\n H2O: ML framework that’s open source and heavily slanted to decision support and risk analysis. \n\n TensorFlow: An open source and highly modular framework created by Google. \n\n PyTorch: A more intuitive open source framework that incorporates Torch and Caffe2, integrated with Python.",
+    "title1": "1. Alteryx Machine Learning Platform",
+    "text4": "Emerging as a leading platform in the machine learning space, Alteryx is designed to tackle extremely complex machine learning projects. The drag-and-drop platform incorporates highly automated ML for both data scientists and business domain users. It links to an array of open source GitHub libraries, including Woodwork, Compose, Featuretools and EvalML and handles numerous data formats and sources. Alteryx also offers powerful visualization tools and has a large and active user community.",
+    "title2": "2. Dataiku",
+    "text5": "This popular platform offers all the tools required to build robust ML models such as strong data preparation features. An AutoML feature is designed to fill in missing values and seamlessly convert non-numerical data into numerical values. Dataiku incorporates leading algorithms and ML frameworks like Sci-Kit and XGBoost, along with widely used deep learning tools such as Keras and Tensorflow. Dataiku also supports custom modeling using Phyton and Scala.",
+    "title3": "3. Google Vertex AI",
+    "text6": "Google Vertex AI utilizes the power of Google Cloud to deliver a complete set of tools and technologies for creating, deploying and scaling ML models. It supports pre-trained custom tooling, AutoML APIs that speed model development, and a low-code framework that typically results in 80% fewer lines of code. Google Vertex supports nearly all open source frameworks, including TensorFlow, PyTorch, and scikit-learn."
+  },
+  "article2": {
+    "title": "The 5 Key Benefits to Using Agile Methodology",
+    "subtitle": "CEO at Everbestlab LLC",
+    "text1": "In today's world of project management, Agile stands as one of the most popular approaches due to its flexibility and evolutionary nature. It started back in 2001 with the Agile manifesto and was originally made for software development. Over time, agile project management evolved and became a common choice for many project managers, regardless of the industry. \n Agile, to sum up, is an iterative and incremental way of managing projects that enables teams to keep up with the demands of the contemporary workplace. It involves various methodologies and all of them are based on the concepts of flexibility, transparency, quality, and continual improvement.",
+    "text3": "Below are the top advanatages of Agile and why it is adopted by many companies for managing their projects:",
+    "title1": "1. The right product",
+    "text4": "Unlike previously managed projects which heavily relied upon very detailed technical requirements upfront, Agile project management sets out to iterate over what works and what does not. In this approach, the client stays involed in the development process and can ask for changes depending on realities. This will result in the creation of the product that is needed by customer and overall superior quality in the end.",
+    "title2": "2. Better control",
+    "text5": "Agile enables project managers to gain greater transparency, quality-control features and integration of feedback. High standard is maintained throughout the implementation phase of the project and all stakeholders are involved in the process with daily progress reports through advanced reporting tools and techniques.",
+    "title3": "3. Customer satisfaction",
+    "text6": "In the Agile, the end-used is involved at all time in the decision-making process which brings about higher customer retention. In the conventional frameworks, the customer is brought only in the planning stage and cannot influence execution which affects the flexibility and adaptability. By maintaining the customer in the loop and making alterations based on their feedback, one delivers value to the customer and ensures that the end product is genuinly according to their requirements.",
+    "title4": "4. Greater predictability",
+    "text7": "With increased transparency, projecting risks involved, and suggesting effective mitigation plans will turn easier. Within Agile, there are better ways to detect and predict risks and plan to make sure that the project runs smoothly. \nScrum methodology, for example, uses sprint backlogs and burndown charts to increase the visibility of the project which enables managers to anticipate performances and plan accordingly.",
+    "text7.1": "",
+    "title5": "5. Minimized risks",
+    "text8": "In theory, projects employing an Agile methodology will never fail. Agile works in small sprints that focus on continuous delivery. There is always a small part that can be salvaged and used in the future even if a particular approach doesn’t go as planned. \nIn a nutshell, the benefits of Agile are numerous. This ranges from improvments in the quality of the product to helping the team members perform better. This methodology, if used correctly, prevents pitfalls like excessive cost and scope creep. \n\n If you think Agile fits for your next project, you are in the right path!"
+  },
+  "article3": {
+    "title": "What is electronic document management and why is it important",
+    "subtitle": "CEO at Everbestlab LLC",
+    "text1": "In contemporary era, nobody likes dealing with paperwork. That’s especially the case when you have just set up a business and there are a hundred and one things to do. \nDocument management could probably be be the least of your concerns, but if it isn’t done properly it may lead to a number of problems for your business further down the line. \nNow is the time to get the planning right and put in place best practice processes that will support your company’s growth.",
+    "text4": "We take a closer look at why electronic records management is vital for your start-up business:",
+    "title1": "1. It’s highly efficient",
+    "text5": "Having a good electronic document management system will improve both internal efficiency and your overall business competiveness. \nThere’s nothing more distracting or frustrating than having piles of physical documents and files lying around. And not being able to find what you need could ultimately harm your reputation.\nAn Electronic Document Management System (EDMS) will ensure records aren’t lost, and help you get any information or data you need quickly and reliably.",
+    "title2": "2. It’s cost effective",
+    "text6": "Saving money wherever possible is key for any start-up, and storing documents electronically is a cost effective way to manage all your records. \nManual document management is a time consuming back office process and you’d be much better placed freeing up internal resources and costly staff time. Reallocate them instead on more important and productive tasks that will help strengthen and build your business. \nThere are also costs associated with physical storage, particularly as a fast growing business will generate a plethora of files. Switching to digital storage will allow you to cost effectively manage expansion needs.",
+
+    "title3": "3. You Control the document flow",
+    "text11": "Electronic document management has special feature namely document flow. When a new document enters into the system, it is then tracked, respective departments and their employees are assigned to the documents. This means highly productive workplace, where business document oprations function at ease. The system will also allow the status and currect department a document is involved, which enables to manageement to stay on track and make decisions accordingly.",
+
+    "title4": "4. It protects your business",
+    "text12": "Finally, an EDMS is the safest way to store documents and files. There have been a number of high profile data breaches in recent years, and your business needs to protect sensitive financial information and trusted customer details with a secure system. \nIt also has the added value of providing an offsite backup, in case of any disaster in the office which could destroy both physical and electronic files at your premises. \nElectronic records management is a vital asset for the administrative function of any company, large or small. If you haven’t got a process in place yet, it makes good business sense to set one up as soon as possible. Find out more about Kefron’s Electronic Document Management System solution here."
+  },
+
+  "tasbeeh": {
+    "top-title": "Development",
+    "title": "Tasbeeh app for muslim communities from idea to live.",
+    "time": "Timeline",
+    "role": "Our Role",
+    "roleP": "From Ideation to end Product",
+    "background": "Background",
+    "bg-p": "At a cafe went a dialogue with Everbestlab's strategic partner. As a father, he was keen to see his family perform good deeds such as reciting certain zikr and wanted to reward them with nice treats like stroll in a park or a toy. From there, the idea of an app began which would allow friends and family to engage together in tasbih activities in a whole new way. \n\n To test the idea, we at Everbestlab came up with a plan to launch an MVP with minimum functionality, meaning that more features are yet to come provided users like and keep using the app.",
+    "challenge": "Challenge",
+    "challe-p": "With the plan beyond just counting zikr on the app, we thought of an integration with the actual device, a tasbih counter ring and/or gadget, via bluetooth technology. However, at this stage of the idea validation, we could not afford to extend the project development cycle and term. Nor did we have the intention to burden investment in something that people ultimately did not need. Therefore, it was a bit harder to decide on which features to include in the initial version. Before even rushing into starting the technical solution, we needed to do some market research and learn about competitiors. This is where UX reasearcha and UI prototyping came to being.",
+    "ux/ui": "UX research and UI design",
+    "ux/ui-p": "Our UX&UI designers made an in-depth reasearch, competitor analysis and design thinking sessions. Having created the prototype on Figma and taken on our device, we would go out of the office and ask people whether they liked it or not. Once we went to the library of a local university and asked several students for their feedback. They were happy to share what they thought. No doubt we attentively listened to them and iterated the design and development process based on their input.",
+    "about": "About the Project",
+    "paragr": "When it comes to building the application, since we aim to integrate with third party devices, we came to a conclusion that we build this app on native Android and iOS development environment rather than cross platform flutter.",
+    "text1": "The features we developed for this light Minimum Visable Product are following:",
+    "text2": "-personalize with language (for now English and Uzbek).",
+    "text3": "-create a profile: full name and avatar. We decided that we can make an email authentification in later versions.",
+    "text4": "-join a zikr challenge via QR code or a link.",
+    "text5": "-create a zikr task. Note that there is a personal and challenge mode where we can invite our friends and family.",
+    "text6": "-manage multiple tasks at once with very convenient cards that you can swipe right or left.",
+    "text7": "-learn to pronounce the tasbih correctly with the help of arabic text, translation and audio.",
+    "text8": "-have a list of most common zikr and create a task based on that.",
+    "text9": "Many features are coming in future versions, but before that we must check if there is actual demand for our app.",
+
+    "download-title": "You can download it from here",
+    "get": "Get it on",
+    "google": "Google Play",
+    "download": "Download on the",
+    "app": "App Store",
+    "p-download":  "Be the first to try out the beta app and feel free to provide feedback. Every word of yours is important to us. Every word of yours is important to us as our goal is to create an app that you'll love using. If you find value in the app we created, please consider sharing it with your friends and family. “The iOS version is coming soon!”",
+    "tech": "Technology Stack"
+
+  },
+  "joyla": {
+    "top-title": "Design and Development",
+    "title": "Classified Ads App from idea to live",
+    "time": "Timeline",
+    "role": "Our Role",
+    "roleP": "From ideation to end product & maintenance.",
+    "background": "Background",
+    "bg-p": "In Uzbekistan, there is a very limited number of platforms that allow selling and buying second-hand items. Therefore, developing a convenient app is essential for finding local buyers and sellers. \n\n In this case study, we'll share our process for creating an intuitive and user-friendly app that has helped over 200k (AppStore and PlayMarket) users list and find items.",
+    "challenge": "Problem",
+    "challe-p": "There is no alternative to an old platform for selling and buying second hand items. Also, users often have to rely on word-of-mouth, bulletin boards, or social media to find buyers or sellers. Additionally, the quality of the items and the reliability of the transaction can be a concern for both parties. Our client recognized this challenge and wanted to create an app that would make the process easier and more reliable.",
+    "ux/ui": "UX/UI Design and Development",
+    "ux/ui-p": "We started out with a thorough understanding of the user needs and expectations. Our UX/UI team conducted research and identified the essential features that would make the app intuitive and user-friendly. These features included easy item listing, location-based lists, image uploads, and secure payment options. We then began the development process, leveraging the latest technologies and tools to create a seamless and efficient user experience.\n\nThe development team used Figma to create mockups and prototypes, allowing us to test the app's usability and make changes before moving to the next stage. We used Kotlin and Swift to develop the app for Android and iOS platforms, respectively. Java 11 was used for the backend development and ReactJS for the frontend development. We also incorporated ElasticSearch for efficient search functionality, Thumbor for image processing, and AWS RDS and S3 for storage and database management. \n\n Throughout the development process, we tested the app thoroughly, making improvements to the user interface, performance, and security. We also optimized the app for different screen sizes, ensuring that it was accessible to as many users as possible.",
+    "about": "Result",
+    "paragr": "Since the app's launch, it has been a success, with over 100k downloads from both the AppStore and PlayMarket. The feedback from users has been overwhelmingly positive, with many praising the app's ease of use and reliability. Users have reported selling items faster and finding better deals than they would have otherwise. The app has also helped to create a new market for local businesses and entrepreneurs, enabling them to reach a wider audience.\n\n The app is now attracting investment, which will enable us to expand the its features and services.",
+     
+
+    "download-title": "You can download it from here",
+    "get": "Get it on",
+    "google": "Google Play",
+    "download": "Download on the",
+    "app": "App Store",
+    "p-download":  "Try out the app and feel free to provide feedback. Every word of yours is important to us as our goal is to create an app that you'll love using. If you find value in the app we created, please consider sharing it with your friends and family.",
+    "p-download2":  "The web version is coming soon!",
+    "tech": "Technology Stack"
+
+  },
+
+  "contactModal":{
+    "get": "Get a quote",
+    "left-p": "We love to hear from you. Our friendly team is always here to chat.",
+    "chat": "Chat to us",
+    "office": "Office",
+    "address": "90, Yangi tarnov str, Bodomzor, Tashkent",
+    "phone": "Phone",
+    "right-title": "Level Up Your Company",
+    "right-p": "You can reach us anytime via",
+    "name": "Name",
+    "name2": "Your Name",
+    "email": "Email",
+    "email2": "you@company.com",
+    "help": "How can we help?",
+    "help2": "Tell us a little about the project...",
+    "service": "Services",
+    "service1": "IT consultancy",
+    "service2": "Web development",
+    "service3": "Custom Software development",
+    "service4": "Mobile Application development",
+    "service5": "UX/UI",
+    "service6": "Other",
+    "start": "Get Start",
+    "error": "This field is required"
+
+  },
+
+  "footer": {
+    "lab-p": "Everbestlab is a software development and digital transformation consultancy company",
+    "contact": "Contacts",
+    "address": "Address:",
+    "address-span": "1275 Davis Rd, Suite 130. Elgin IL 60123, USA",
+    "address-span2": "90, Yangi Tarnov str., Bodomzor, Tashkent, Uzbekistan.",
+    "email": "Email:",
+    "phone2": "Phone:",
+    "service": "Services",
+    "serv1": "Custom Software Development",
+    "serv2": "Mobile Application Development",
+    "serv3": "Web Development",
+    "serv4": "UX/UI",
+    "serv5": "IT Consulting",
+    "news-title": "Recent News",
+    "news1": "Top Machine Learning Platforms 2023",
+    "news2": "The 5 Key Benefits to Using Agile Methodology",
+    "news3": "What is electronic document management and why is it important",
+    "bottom": "© Everbestlab 2023. All rights reserved."
+  }
+}
